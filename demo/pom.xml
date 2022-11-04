@@ -13,6 +13,14 @@
     <artifactId>demo</artifactId>
     <dependencies>
         <!-- something should be here-->
+        <!-- https://mvnrepository.com/artifact/com.sun/tools -->
+        <dependency>
+            <groupId>com.sun</groupId>
+            <artifactId>tools</artifactId>
+            <version>1.7.0.13</version>
+            <scope>system</scope>
+        </dependency>
+
 
         <dependency>
             <groupId>org.junit.jupiter</groupId>
